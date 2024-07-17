@@ -1,0 +1,3 @@
+In this project, I was required to create a machine learning algorithm to predict the amount of hydrogen produced from the electrolysis of water using
+the electricity produced by the solar panel, but there was no dataset dedicated to that. I decided to use a dataset to predict the amount of electricity
+produced by the solar panels, and through that After that, I use Avogadro's laws to determine the amount of hydrogen produced
